@@ -14,3 +14,5 @@
 Grand Canyon National Park 3 days 
 
 Los Angeles  5 days
+
+San Francisco 1 days
