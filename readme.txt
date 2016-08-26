@@ -9,3 +9,6 @@
 ´óÏ¿¹È¹ú¼Ò¹«Ô° Grand Canyon National Park 2 days 
 
  ÅÁÂå°¢¶ûÍĞ Palo alto 2 days
+
+ ÅÁÂå°¢¶ûÍĞ Palo alto 3 days
+Grand Canyon National Park 3 days 
