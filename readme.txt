@@ -12,3 +12,5 @@
 
  ÅÁÂå°¢¶ûÍĞ Palo alto 3 days
 Grand Canyon National Park 3 days 
+
+Los Angeles  5 days
