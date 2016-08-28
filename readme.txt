@@ -22,5 +22,7 @@ San Francisco 1 days
 7777777777777777777777
 
 9999999999999999999999
+销售账号已经创建：xs01:sales_kbbj_0101
+客服账号已经创建：kf01:service_www_abab
 
 
